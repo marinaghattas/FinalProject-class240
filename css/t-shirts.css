@@ -1,0 +1,37 @@
+#header {
+    background-color:rgba(0, 0, 0, 0.52);
+    color:rgb(255, 97, 195);
+    text-align:center;
+    padding:5px;
+font-family: fantasy;
+border: solid;
+    border-color: rgba(103, 164, 234, 0.72);}
+  #nav {
+    line-height:45px;
+    background-color:rgba(252, 231, 252, 0.61);
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;
+    position: relative;
+    top:50px;
+    border: solid;
+    border-color: rgba(196, 13, 140, 0.92);
+font-family: fantasy;
+   }
+
+#class{
+    float:center;
+    position: relative;
+font-family: fantasy;
+    top:60px;
+    font-size:20px;
+    color: rgba(255, 255, 255, 0.76);
+}
+     #section {
+    left: 250px;
+    top: 500px;
+  font-family: fantasy;
+  color: #ded8d8;
+
+  }
